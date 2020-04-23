@@ -1,0 +1,244 @@
+---
+Module:          
+  FullName:        GoogleMapsBase
+  IsPartOfFramework: true
+  IsSystemModule:  false
+  Libraries:       
+    - Library:         z
+      IsFramework:     false
+    - Library:         CoreFoundation
+      IsFramework:     true
+    - Library:         CoreLocation
+      IsFramework:     true
+    - Library:         CoreTelephony
+      IsFramework:     true
+    - Library:         CoreText
+      IsFramework:     true
+    - Library:         Foundation
+      IsFramework:     true
+    - Library:         QuartzCore
+      IsFramework:     true
+    - Library:         Security
+      IsFramework:     true
+    - Library:         UIKit
+      IsFramework:     true
+Items:           
+  - Name:            GMSCoordinateBounds
+    JsName:          GMSCoordinateBounds
+    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+    Module:          
+      FullName:        GoogleMapsBase.GMSCoordinateBounds
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+      - Name:            'containsCoordinate:'
+        JsName:          containsCoordinate
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Bool
+          - Type:            Struct
+            Module:          CoreLocation.CLLocation
+            Name:            CLLocationCoordinate2D
+      - Name:            'includingBounds:'
+        JsName:          includingBounds
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Interface
+            Name:            GMSCoordinateBounds
+            WithProtocols:   []
+          - Type:            Interface
+            Name:            GMSCoordinateBounds
+            WithProtocols:   []
+      - Name:            'includingCoordinate:'
+        JsName:          includingCoordinate
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Interface
+            Name:            GMSCoordinateBounds
+            WithProtocols:   []
+          - Type:            Struct
+            Module:          CoreLocation.CLLocation
+            Name:            CLLocationCoordinate2D
+      - Name:            'initWithCoordinate:coordinate:'
+        JsName:          initWithCoordinateCoordinate
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable, MethodIsInitializer ]
+        Type:            Method
+        Signature:       
+          - Type:            Instancetype
+          - Type:            Struct
+            Module:          CoreLocation.CLLocation
+            Name:            CLLocationCoordinate2D
+          - Type:            Struct
+            Module:          CoreLocation.CLLocation
+            Name:            CLLocationCoordinate2D
+      - Name:            'intersectsBounds:'
+        JsName:          intersectsBounds
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Bool
+          - Type:            Interface
+            Name:            GMSCoordinateBounds
+            WithProtocols:   []
+      - Name:            'includingPath:'
+        JsName:          includingPath
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h'
+        Module:          
+          FullName:        GoogleMaps.GMSCoordinateBounds_GoogleMaps
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Interface
+            Name:            GMSCoordinateBounds
+            WithProtocols:   []
+          - Type:            Interface
+            Name:            GMSPath
+            WithProtocols:   []
+      - Name:            'initWithPath:'
+        JsName:          initWithPath
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h'
+        Module:          
+          FullName:        GoogleMaps.GMSCoordinateBounds_GoogleMaps
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable, MethodIsInitializer ]
+        Type:            Method
+        Signature:       
+          - Type:            Instancetype
+          - Type:            Interface
+            Name:            GMSPath
+            WithProtocols:   []
+      - Name:            'initWithRegion:'
+        JsName:          initWithRegion
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h'
+        Module:          
+          FullName:        GoogleMaps.GMSCoordinateBounds_GoogleMaps
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable, MethodIsInitializer ]
+        Type:            Method
+        Signature:       
+          - Type:            Instancetype
+          - Type:            Struct
+            Module:          GoogleMaps.GMSProjection
+            Name:            GMSVisibleRegion
+    StaticMethods:   []
+    InstanceProperties: 
+      - Name:            northEast
+        JsName:          northEast
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            northEast
+          JsName:          northEast
+          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+          Module:          
+            FullName:        GoogleMapsBase.GMSCoordinateBounds
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       []
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Struct
+              Module:          CoreLocation.CLLocation
+              Name:            CLLocationCoordinate2D
+      - Name:            southWest
+        JsName:          southWest
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            southWest
+          JsName:          southWest
+          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+          Module:          
+            FullName:        GoogleMapsBase.GMSCoordinateBounds
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       []
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Struct
+              Module:          CoreLocation.CLLocation
+              Name:            CLLocationCoordinate2D
+      - Name:            valid
+        JsName:          valid
+        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+        Module:          
+          FullName:        GoogleMapsBase.GMSCoordinateBounds
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            isValid
+          JsName:          isValid
+          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h'
+          Module:          
+            FullName:        GoogleMapsBase.GMSCoordinateBounds
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       []
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Bool
+    StaticProperties: []
+    Protocols:       []
+    Base:            NSObject
+...

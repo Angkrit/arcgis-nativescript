@@ -1,0 +1,40 @@
+---
+Module:          
+  FullName:        Pods_ArcGISNativeScript
+  IsPartOfFramework: true
+  IsSystemModule:  false
+  Libraries:       
+    - Library:         Pods_ArcGISNativeScript
+      IsFramework:     true
+Items:           
+  - Name:            Pods_ArcGISNativeScriptVersionNumber
+    JsName:          Pods_ArcGISNativeScriptVersionNumber
+    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/build/Debug-iphonesimulator/Pods_ArcGISNativeScript.framework/Headers/Pods-ArcGISNativeScript-umbrella.h'
+    Module:          
+      FullName:        Pods_ArcGISNativeScript
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         Pods_ArcGISNativeScript
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            Double
+  - Name:            Pods_ArcGISNativeScriptVersionString
+    JsName:          Pods_ArcGISNativeScriptVersionString
+    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/build/Debug-iphonesimulator/Pods_ArcGISNativeScript.framework/Headers/Pods-ArcGISNativeScript-umbrella.h'
+    Module:          
+      FullName:        Pods_ArcGISNativeScript
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         Pods_ArcGISNativeScript
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            IncompleteArray
+      ArrayType:       
+        Type:            UChar
+...
