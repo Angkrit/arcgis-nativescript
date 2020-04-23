@@ -6940,7 +6940,7 @@ Items:
             WithProtocols:   []
       - Name:            'mdc_functionWithType:'
         JsName:          mdc_functionWithType
-        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/build/Debug-iphonesimulator/MaterialComponents/MaterialComponents.framework/Headers/CAMediaTimingFunction+MDCAnimationTiming.h'
+        Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/build/Debug-iphonesimulator/MaterialComponents/MaterialComponents.framework/Headers/CAMediaTimingFunction+MDCAnimationTiming.h'
         Module:          
           FullName:        MaterialComponents.CAMediaTimingFunction_MDCAnimationTiming
           IsPartOfFramework: true

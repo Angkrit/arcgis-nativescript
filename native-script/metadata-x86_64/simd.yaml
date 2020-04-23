@@ -5,32 +5,6 @@ Module:
   IsSystemModule:  true
   Libraries:       []
 Items:           
-  - Name:            __cos_d2
-    JsName:          __cos_d2
-    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
-    Module:          
-      FullName:        simd.math
-      IsPartOfFramework: false
-      IsSystemModule:  true
-      Libraries:       []
-    Flags:           [ IsIosAppExtensionAvailable ]
-    Type:            Function
-    Signature:       
-      - Type:            
-      - Type:            
-  - Name:            __cos_f4
-    JsName:          __cos_f4
-    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
-    Module:          
-      FullName:        simd.math
-      IsPartOfFramework: false
-      IsSystemModule:  true
-      Libraries:       []
-    Flags:           [ IsIosAppExtensionAvailable ]
-    Type:            Function
-    Signature:       
-      - Type:            
-      - Type:            
   - Name:            __invert_d2
     JsName:          __invert_d2
     Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
@@ -133,32 +107,6 @@ Items:
       - Type:            Struct
         Module:          simd.types
         Name:            simd_float4x4
-  - Name:            __sin_d2
-    JsName:          __sin_d2
-    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
-    Module:          
-      FullName:        simd.math
-      IsPartOfFramework: false
-      IsSystemModule:  true
-      Libraries:       []
-    Flags:           [ IsIosAppExtensionAvailable ]
-    Type:            Function
-    Signature:       
-      - Type:            
-      - Type:            
-  - Name:            __sin_f4
-    JsName:          __sin_f4
-    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
-    Module:          
-      FullName:        simd.math
-      IsPartOfFramework: false
-      IsSystemModule:  true
-      Libraries:       []
-    Flags:           [ IsIosAppExtensionAvailable ]
-    Type:            Function
-    Signature:       
-      - Type:            
-      - Type:            
   - Name:            __tg_acos
     JsName:          __tg_acos
     Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
@@ -5740,6 +5688,1115 @@ Items:
       - Type:            
   - Name:            __tg_trunc
     JsName:          __tg_truncFunction8
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_acos_d2
+    JsName:          _simd_acos_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_acos_f4
+    JsName:          _simd_acos_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_acosh_d2
+    JsName:          _simd_acosh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_acosh_f4
+    JsName:          _simd_acosh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_asin_d2
+    JsName:          _simd_asin_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_asin_f4
+    JsName:          _simd_asin_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_asinh_d2
+    JsName:          _simd_asinh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_asinh_f4
+    JsName:          _simd_asinh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_atan2_d2
+    JsName:          _simd_atan2_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_atan2_f4
+    JsName:          _simd_atan2_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_atan_d2
+    JsName:          _simd_atan_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_atan_f4
+    JsName:          _simd_atan_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_atanh_d2
+    JsName:          _simd_atanh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_atanh_f4
+    JsName:          _simd_atanh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cbrt_d2
+    JsName:          _simd_cbrt_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cbrt_f4
+    JsName:          _simd_cbrt_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cos_d2
+    JsName:          _simd_cos_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cos_f4
+    JsName:          _simd_cos_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cosh_d2
+    JsName:          _simd_cosh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cosh_f4
+    JsName:          _simd_cosh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cospi_d2
+    JsName:          _simd_cospi_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_cospi_f4
+    JsName:          _simd_cospi_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_erf_d2
+    JsName:          _simd_erf_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_erf_f4
+    JsName:          _simd_erf_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_erfc_d2
+    JsName:          _simd_erfc_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_erfc_f4
+    JsName:          _simd_erfc_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp10_d2
+    JsName:          _simd_exp10_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp10_f4
+    JsName:          _simd_exp10_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp2_d2
+    JsName:          _simd_exp2_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp2_f4
+    JsName:          _simd_exp2_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp_d2
+    JsName:          _simd_exp_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_exp_f4
+    JsName:          _simd_exp_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_expm1_d2
+    JsName:          _simd_expm1_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_expm1_f4
+    JsName:          _simd_expm1_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_fma_d2
+    JsName:          _simd_fma_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_fma_f4
+    JsName:          _simd_fma_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_fmod_d2
+    JsName:          _simd_fmod_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_fmod_f4
+    JsName:          _simd_fmod_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_hypot_d2
+    JsName:          _simd_hypot_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_hypot_f4
+    JsName:          _simd_hypot_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_incircle_pd2
+    JsName:          _simd_incircle_pd2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_incircle_pf2
+    JsName:          _simd_incircle_pf2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_insphere_pd3
+    JsName:          _simd_insphere_pd3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            Pointer
+        PointerType:     
+          Type:            Double
+  - Name:            _simd_insphere_pf3
+    JsName:          _simd_insphere_pf3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_log10_d2
+    JsName:          _simd_log10_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log10_f4
+    JsName:          _simd_log10_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log1p_d2
+    JsName:          _simd_log1p_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log1p_f4
+    JsName:          _simd_log1p_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log2_d2
+    JsName:          _simd_log2_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log2_f4
+    JsName:          _simd_log2_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log_d2
+    JsName:          _simd_log_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_log_f4
+    JsName:          _simd_log_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_nextafter_d2
+    JsName:          _simd_nextafter_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_nextafter_f4
+    JsName:          _simd_nextafter_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_pd2
+    JsName:          _simd_orient_pd2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_pd3
+    JsName:          _simd_orient_pd3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            Pointer
+        PointerType:     
+          Type:            Double
+  - Name:            _simd_orient_pf2
+    JsName:          _simd_orient_pf2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_pf3
+    JsName:          _simd_orient_pf3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_vd2
+    JsName:          _simd_orient_vd2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_vd3
+    JsName:          _simd_orient_vd3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            Pointer
+        PointerType:     
+          Type:            Double
+  - Name:            _simd_orient_vf2
+    JsName:          _simd_orient_vf2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+  - Name:            _simd_orient_vf3
+    JsName:          _simd_orient_vf3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/extern.h'
+    Module:          
+      FullName:        simd.extern_
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_pow_d2
+    JsName:          _simd_pow_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_pow_f4
+    JsName:          _simd_pow_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_remainder_d2
+    JsName:          _simd_remainder_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_remainder_f4
+    JsName:          _simd_remainder_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            _simd_round_d2
+    JsName:          _simd_round_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_round_f4
+    JsName:          _simd_round_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sin_d2
+    JsName:          _simd_sin_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sin_f4
+    JsName:          _simd_sin_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sinh_d2
+    JsName:          _simd_sinh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sinh_f4
+    JsName:          _simd_sinh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sinpi_d2
+    JsName:          _simd_sinpi_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_sinpi_f4
+    JsName:          _simd_sinpi_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tan_d2
+    JsName:          _simd_tan_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tan_f4
+    JsName:          _simd_tan_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tanh_d2
+    JsName:          _simd_tanh_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tanh_f4
+    JsName:          _simd_tanh_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tanpi_d2
+    JsName:          _simd_tanpi_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tanpi_f4
+    JsName:          _simd_tanpi_f4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tgamma_d2
+    JsName:          _simd_tgamma_d2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
+    Module:          
+      FullName:        simd.math
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            
+      - Type:            
+  - Name:            _simd_tgamma_f4
+    JsName:          _simd_tgamma_f4
     Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/math.h'
     Module:          
       FullName:        simd.math
@@ -14906,6 +15963,72 @@ Items:
     Signature:       
       - Type:            
       - Type:            
+  - Name:            simd_incircle
+    JsName:          simd_incircle
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_incircle
+    JsName:          simd_incircleFunction
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_insphere
+    JsName:          simd_insphere
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_insphere
+    JsName:          simd_insphereFunction
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
   - Name:            simd_int
     JsName:          simd_int
     Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/conversion.h'
@@ -23031,6 +24154,126 @@ Items:
       - Type:            Struct
         Module:          simd.types
         Name:            simd_quatf
+  - Name:            simd_orient
+    JsName:          simd_orient
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction2
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction3
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction4
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction5
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction6
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Float
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
+  - Name:            simd_orient
+    JsName:          simd_orientFunction7
+    Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'
+    Module:          
+      FullName:        simd.geometry
+      IsPartOfFramework: false
+      IsSystemModule:  true
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Function
+    Signature:       
+      - Type:            Double
+      - Type:            
+      - Type:            
+      - Type:            
+      - Type:            
   - Name:            simd_precise_distance
     JsName:          simd_precise_distance
     Filename:        '/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/simd/geometry.h'

@@ -19498,7 +19498,7 @@ Items:
           Type:            Void
   - Name:            atomic_signal_fence
     JsName:          atomic_signal_fence
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -19512,7 +19512,7 @@ Items:
         Name:            memory_order
   - Name:            atomic_thread_fence
     JsName:          atomic_thread_fence
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37535,7 +37535,7 @@ Items:
           Type:            UInt
   - Name:            memory_order
     JsName:          memory_order
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37559,7 +37559,7 @@ Items:
       - seq_cst:         '5'
   - Name:            memory_order_acq_rel
     JsName:          memory_order_acq_rel
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37570,7 +37570,7 @@ Items:
     Value:           '4'
   - Name:            memory_order_acquire
     JsName:          memory_order_acquire
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37581,7 +37581,7 @@ Items:
     Value:           '2'
   - Name:            memory_order_consume
     JsName:          memory_order_consume
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37592,7 +37592,7 @@ Items:
     Value:           '1'
   - Name:            memory_order_relaxed
     JsName:          memory_order_relaxed
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37603,7 +37603,7 @@ Items:
     Value:           '0'
   - Name:            memory_order_release
     JsName:          memory_order_release
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false
@@ -37614,7 +37614,7 @@ Items:
     Value:           '3'
   - Name:            memory_order_seq_cst
     JsName:          memory_order_seq_cst
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/stdatomic.h'
     Module:          
       FullName:        Darwin.C.stdatomic
       IsPartOfFramework: false

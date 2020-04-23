@@ -9,7 +9,7 @@ Module:
 Items:           
   - Name:            TNSLabel
     JsName:          TNSLabel
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
     Module:          
       FullName:        TNSWidgets.TNSLabel
       IsPartOfFramework: true
@@ -22,7 +22,7 @@ Items:
     InstanceProperties: 
       - Name:            borderThickness
         JsName:          borderThickness
-        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+        Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
         Module:          
           FullName:        TNSWidgets.TNSLabel
           IsPartOfFramework: true
@@ -33,7 +33,7 @@ Items:
         Getter:          
           Name:            borderThickness
           JsName:          borderThickness
-          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+          Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
           Module:          
             FullName:        TNSWidgets.TNSLabel
             IsPartOfFramework: true
@@ -48,7 +48,7 @@ Items:
         Setter:          
           Name:            'setBorderThickness:'
           JsName:          setBorderThickness
-          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+          Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
           Module:          
             FullName:        TNSWidgets.TNSLabel
             IsPartOfFramework: true
@@ -63,7 +63,7 @@ Items:
               Name:            UIEdgeInsets
       - Name:            padding
         JsName:          padding
-        Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+        Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
         Module:          
           FullName:        TNSWidgets.TNSLabel
           IsPartOfFramework: true
@@ -74,7 +74,7 @@ Items:
         Getter:          
           Name:            padding
           JsName:          padding
-          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+          Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
           Module:          
             FullName:        TNSWidgets.TNSLabel
             IsPartOfFramework: true
@@ -89,7 +89,7 @@ Items:
         Setter:          
           Name:            'setPadding:'
           JsName:          setPadding
-          Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
+          Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h'
           Module:          
             FullName:        TNSWidgets.TNSLabel
             IsPartOfFramework: true
@@ -107,7 +107,7 @@ Items:
     Base:            UILabel
   - Name:            TNSWidgetsVersionNumber
     JsName:          TNSWidgetsVersionNumber
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h'
     Module:          
       FullName:        TNSWidgets
       IsPartOfFramework: true
@@ -121,7 +121,7 @@ Items:
       Type:            Double
   - Name:            TNSWidgetsVersionString
     JsName:          TNSWidgetsVersionString
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h'
     Module:          
       FullName:        TNSWidgets
       IsPartOfFramework: true
@@ -137,7 +137,7 @@ Items:
         Type:            UChar
   - Name:            __nslog
     JsName:          __nslog
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h'
     Module:          
       FullName:        TNSWidgets.TNSProcess
       IsPartOfFramework: true
@@ -152,7 +152,7 @@ Items:
         WithProtocols:   []
   - Name:            __tns_uptime
     JsName:          __tns_uptime
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h'
     Module:          
       FullName:        TNSWidgets.TNSProcess
       IsPartOfFramework: true

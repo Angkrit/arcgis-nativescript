@@ -7,7 +7,7 @@ Module:
 Items:           
   - Name:            __loadu_i16
     JsName:          __loadu_i16
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -21,7 +21,7 @@ Items:
           Type:            Short
   - Name:            __loadu_i32
     JsName:          __loadu_i32
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -35,7 +35,7 @@ Items:
           Type:            Int
   - Name:            __loadu_i64
     JsName:          __loadu_i64
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -49,7 +49,7 @@ Items:
           Type:            LongLong
   - Name:            __loadu_si16
     JsName:          __loadu_si16
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -63,7 +63,7 @@ Items:
           Type:            Short
   - Name:            __loadu_si32
     JsName:          __loadu_si32
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -77,7 +77,7 @@ Items:
           Type:            Int
   - Name:            __loadu_si64
     JsName:          __loadu_si64
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -91,7 +91,7 @@ Items:
           Type:            LongLong
   - Name:            __mm_load1_pd_struct
     JsName:          __mm_load1_pd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -105,7 +105,7 @@ Items:
           Type:            Double
   - Name:            __mm_load1_ps_struct
     JsName:          __mm_load1_ps_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -119,7 +119,7 @@ Items:
           Type:            Float
   - Name:            __mm_load_sd_struct
     JsName:          __mm_load_sd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -133,7 +133,7 @@ Items:
           Type:            Double
   - Name:            __mm_load_ss_struct
     JsName:          __mm_load_ss_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -147,7 +147,7 @@ Items:
           Type:            Float
   - Name:            __mm_loadh_pd_struct
     JsName:          __mm_loadh_pd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -161,7 +161,7 @@ Items:
           Type:            Double
   - Name:            __mm_loadl_epi64_struct
     JsName:          __mm_loadl_epi64_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -175,7 +175,7 @@ Items:
           Type:            LongLong
   - Name:            __mm_loadl_pd_struct
     JsName:          __mm_loadl_pd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -189,7 +189,7 @@ Items:
           Type:            Double
   - Name:            __mm_store_sd_struct
     JsName:          __mm_store_sd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -203,7 +203,7 @@ Items:
           Type:            Double
   - Name:            __mm_store_ss_struct
     JsName:          __mm_store_ss_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -217,7 +217,7 @@ Items:
           Type:            Float
   - Name:            __mm_storeh_pd_struct
     JsName:          __mm_storeh_pd_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -231,7 +231,7 @@ Items:
           Type:            Double
   - Name:            __mm_storeh_pd_struct
     JsName:          __mm_storeh_pd_structStruct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -245,7 +245,7 @@ Items:
           Type:            Double
   - Name:            __mm_storel_epi64_struct
     JsName:          __mm_storel_epi64_struct
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -259,7 +259,7 @@ Items:
           Type:            LongLong
   - Name:            __storeu_i16
     JsName:          __storeu_i16
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -273,7 +273,7 @@ Items:
           Type:            Short
   - Name:            __storeu_i32
     JsName:          __storeu_i32
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -287,7 +287,7 @@ Items:
           Type:            Int
   - Name:            __storeu_i64
     JsName:          __storeu_i64
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/immintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel
       IsPartOfFramework: false
@@ -301,7 +301,7 @@ Items:
           Type:            LongLong
   - Name:            __storeu_si16
     JsName:          __storeu_si16
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -315,7 +315,7 @@ Items:
           Type:            Short
   - Name:            __storeu_si32
     JsName:          __storeu_si32
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -329,7 +329,7 @@ Items:
           Type:            Int
   - Name:            __storeu_si64
     JsName:          __storeu_si64
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -343,7 +343,7 @@ Items:
           Type:            LongLong
   - Name:            _mm_clflush
     JsName:          _mm_clflush
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -358,7 +358,7 @@ Items:
           Type:            Void
   - Name:            _mm_getcsr
     JsName:          _mm_getcsr
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -370,7 +370,7 @@ Items:
       - Type:            UInt
   - Name:            _mm_lfence
     JsName:          _mm_lfence
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -382,7 +382,7 @@ Items:
       - Type:            Void
   - Name:            _mm_mfence
     JsName:          _mm_mfence
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -394,7 +394,7 @@ Items:
       - Type:            Void
   - Name:            _mm_pause
     JsName:          _mm_pause
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/emmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse2
       IsPartOfFramework: false
@@ -406,7 +406,7 @@ Items:
       - Type:            Void
   - Name:            _mm_setcsr
     JsName:          _mm_setcsr
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -419,7 +419,7 @@ Items:
       - Type:            UInt
   - Name:            _mm_sfence
     JsName:          _mm_sfence
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/xmmintrin.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.sse
       IsPartOfFramework: false
@@ -431,7 +431,7 @@ Items:
       - Type:            Void
   - Name:            posix_memalign
     JsName:          posix_memalign
-    Filename:        '/Users/angkrit/Desktop/NativeScript/ArcGIS-NativeScript/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/mm_malloc.h'
+    Filename:        '/Users/angkrit/Sources/AtlasX/ArcGIS-NativeScript/native-script/platforms/ios/internal/metadata-generator/bin/lib/clang/8.0.0/include/mm_malloc.h'
     Module:          
       FullName:        _Builtin_intrinsics.intel.mm_malloc
       IsPartOfFramework: false
