@@ -23,7 +23,7 @@ yarn-error.log*
 .cloud
 .project
 tmp/
-typings/
+# typings/
 
 # Visual Studio Code
 .vscode/*

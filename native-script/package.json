@@ -21,10 +21,10 @@
     "@angular/platform-browser-dynamic": "~8.2.0",
     "@angular/router": "~8.2.0",
     "@nativescript/theme": "~2.3.3",
-    "my-plugin": "file:../my-plugin",
     "nativescript-angular": "~8.21.0",
     "reflect-metadata": "~0.1.12",
     "rxjs": "^6.4.0",
+    "tns-android": "^6.5.0",
     "tns-core-modules": "~6.5.0",
     "zone.js": "~0.9.1"
   },
@@ -32,12 +32,19 @@
     "@angular/compiler-cli": "~8.2.0",
     "@ngtools/webpack": "~8.2.0",
     "nativescript-dev-webpack": "~1.5.1",
-    "typescript": "~3.5.3"
+    "tns-platform-declarations": "^6.5.1",
+    "typescript": "^3.5.3"
   },
   "gitHead": "2250137db8c1e0bd0eb543e8e4563cb71480c00d",
   "readme": "NativeScript Application",
   "scripts": {
-    "gen-meta": "TNS_DEBUG_METADATA_PATH=\"$(pwd)/metadata\" tns build ios",
-    "gen-typings": "TNS_TYPESCRIPT_DECLARATIONS_PATH=\"$(pwd)/typings\" tns build ios"
+    "ios": "tns run ios",
+    "android": "tns run android",
+    "build-ios": "tns build ios",
+    "build-ios-metadata": "TNS_DEBUG_METADATA_PATH=$(pwd)/metadata/ios tns build ios",
+    "build-ios-typings": "TNS_TYPESCRIPT_DECLARATIONS_PATH=$(pwd)/typings/ios tns build ios",
+    "build-android": "tns build android",
+    "build-android-metadata": "TNS_DEBUG_METADATA_PATH=$(pwd)/metadata/android tns build android",
+    "build-android-typings": "TNS_TYPESCRIPT_DECLARATIONS_PATH=$(pwd)/typings/android tns build android"
   }
 }

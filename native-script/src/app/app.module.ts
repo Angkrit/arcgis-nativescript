@@ -13,24 +13,13 @@ import { ItemDetailComponent } from "./item/item-detail.component";
 // import { NativeScriptHttpClientModule } from "nativescript-angular/http-client";
 
 @NgModule({
-    bootstrap: [
-        AppComponent
-    ],
-    imports: [
-        NativeScriptModule,
-        AppRoutingModule
-    ],
-    declarations: [
-        AppComponent,
-        ItemsComponent,
-        ItemDetailComponent
-    ],
+    bootstrap: [AppComponent],
+    imports: [NativeScriptModule, AppRoutingModule],
+    declarations: [AppComponent, ItemsComponent, ItemDetailComponent],
     providers: [],
-    schemas: [
-        NO_ERRORS_SCHEMA
-    ]
+    schemas: [NO_ERRORS_SCHEMA],
 })
 /*
 Pass your application module to the bootstrapModule function located in main.ts to start your app
 */
-export class AppModule { }
+export class AppModule {}
