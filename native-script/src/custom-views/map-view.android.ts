@@ -20,9 +20,9 @@ export class MapView extends View {
     private setupMap() {
         if (this.mapView != null) {
             const basemapType = Basemap.Type.IMAGERY_WITH_LABELS_VECTOR;
-            const latitude = 34.027;
-            const longitude = -118.805;
-            const levelOfDetail = 13;
+            const latitude = 13;
+            const longitude = 100;
+            const levelOfDetail = 17;
             const map = new ArcGISMap(
                 basemapType,
                 latitude,

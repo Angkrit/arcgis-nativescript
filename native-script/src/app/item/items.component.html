@@ -22,14 +22,14 @@ These components make use of the NativeScript core theme, which styles them with
 The theme also provides a set of helper class names such as p-20, h1, h2, and text-center to enhance styling.
 You can learn more about the NativeScript core theme at https://github.com/nativescript/theme
 -->
-<GridLayout>
-  <!-- <Switch row="0" col="0"></Switch> -->
-  <MapView row="1" col="0"></MapView>
-  <!-- <ListView row="2" col="0" [items]="items">
+<StackLayout>
+  <Switch height="100"></Switch>
+  <MapView height="400"></MapView>
+  <ListView [items]="items" height="200">
     <ng-template let-item="item">
       <StackLayout>
         <Label [nsRouterLink]="['/item', item.id]" [text]="item.name"></Label>
       </StackLayout>
     </ng-template>
-  </ListView> -->
-</GridLayout>
+  </ListView>
+</StackLayout>
