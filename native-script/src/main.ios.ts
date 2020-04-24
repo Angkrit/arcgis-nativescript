@@ -11,21 +11,22 @@ import { AppModule } from "./app/app.module";
 // so we provide a wrapper platform object, platformNativeScriptDynamic,
 // that sets up a NativeScript application and can bootstrap the Angular framework.
 
-// class AppDelegate extends UIResponder implements UIApplicationDelegate {
-//     public static ObjCProtocols = [UIApplicationDelegate];
-//     applicationDidFinishLaunchingWithOptions(
-//         application: UIApplication,
-//         launchOptions: NSDictionary<string, any>
-//     ): boolean {
-//         console.log(
-//             "applicationWillFinishLaunchingWithOptions: " + launchOptions
-//         );
-//         return true;
-//     }
-//     applicationDidBecomeActive(application: UIApplication): void {
-//         console.log("applicationDidBecomeActive: " + application);
-//     }
-// }
-// ios.delegate = AppDelegate;
+class AppDelegate extends UIResponder implements UIApplicationDelegate {
+    public static ObjCProtocols = [UIApplicationDelegate];
+    applicationDidFinishLaunchingWithOptions(
+        application: UIApplication,
+        launchOptions: NSDictionary<string, any>
+    ): boolean {
+        console.log(
+            "applicationWillFinishLaunchingWithOptions: " + launchOptions
+        );
+        return true;
+    }
+    applicationDidBecomeActive(application: UIApplication): void {
+        console.log("applicationDidBecomeActive: " + application);
+        if (application) application.idleTimerDisabled = true;
+    }
+}
+ios.delegate = AppDelegate;
 
 platformNativeScriptDynamic().bootstrapModule(AppModule);

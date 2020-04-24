@@ -14,5 +14,5 @@
       "*": ["./node_modules/tns-core-modules/*", "./node_modules/*"]
     }
   },
-  "exclude": ["node_modules", "platforms", "typings"]
+  "exclude": ["node_modules", "platforms"]
 }

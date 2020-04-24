@@ -37481,47 +37481,47 @@ declare module com {
 	}
 }
 
-declare module com {
-	export module esri {
-		export module arcgisruntime {
-			export module internal {
-				export module jni {
-					export class do {
-						public static class: java.lang.Class<com.esri.arcgisruntime.internal.jni.do>;
-						public static b: com.esri.arcgisruntime.internal.jni.do;
-						public static c: com.esri.arcgisruntime.internal.jni.do;
-						public static d: com.esri.arcgisruntime.internal.jni.do;
-						public static e: com.esri.arcgisruntime.internal.jni.do;
-						public static f: com.esri.arcgisruntime.internal.jni.do;
-						public static g: com.esri.arcgisruntime.internal.jni.do;
-						public static h: com.esri.arcgisruntime.internal.jni.do;
-						public static i: com.esri.arcgisruntime.internal.jni.do;
-						public static j: com.esri.arcgisruntime.internal.jni.do;
-						public static k: com.esri.arcgisruntime.internal.jni.do;
-						public static l: com.esri.arcgisruntime.internal.jni.do;
-						public static m: com.esri.arcgisruntime.internal.jni.do;
-						public static n: com.esri.arcgisruntime.internal.jni.do;
-						public static o: com.esri.arcgisruntime.internal.jni.do;
-						public static p: com.esri.arcgisruntime.internal.jni.do;
-						public static q: com.esri.arcgisruntime.internal.jni.do;
-						public static r: com.esri.arcgisruntime.internal.jni.do;
-						public static s: com.esri.arcgisruntime.internal.jni.do;
-						public static t: com.esri.arcgisruntime.internal.jni.do;
-						public static u: com.esri.arcgisruntime.internal.jni.do;
-						public static v: com.esri.arcgisruntime.internal.jni.do;
-						public static w: com.esri.arcgisruntime.internal.jni.do;
-						public static x: com.esri.arcgisruntime.internal.jni.do;
-						public static y: com.esri.arcgisruntime.internal.jni.do;
-						public static z: com.esri.arcgisruntime.internal.jni.do;
-						public static a(param0: number): com.esri.arcgisruntime.internal.jni.do;
-						public static values(): native.Array<com.esri.arcgisruntime.internal.jni.do>;
-						public static valueOf(param0: string): com.esri.arcgisruntime.internal.jni.do;
-					}
-				}
-			}
-		}
-	}
-}
+// declare module com {
+// 	export module esri {
+// 		export module arcgisruntime {
+// 			export module internal {
+// 				export module jni {
+// 					export class do {
+// 						public static class: java.lang.Class<com.esri.arcgisruntime.internal.jni.do>;
+// 						public static b: com.esri.arcgisruntime.internal.jni.do;
+// 						public static c: com.esri.arcgisruntime.internal.jni.do;
+// 						public static d: com.esri.arcgisruntime.internal.jni.do;
+// 						public static e: com.esri.arcgisruntime.internal.jni.do;
+// 						public static f: com.esri.arcgisruntime.internal.jni.do;
+// 						public static g: com.esri.arcgisruntime.internal.jni.do;
+// 						public static h: com.esri.arcgisruntime.internal.jni.do;
+// 						public static i: com.esri.arcgisruntime.internal.jni.do;
+// 						public static j: com.esri.arcgisruntime.internal.jni.do;
+// 						public static k: com.esri.arcgisruntime.internal.jni.do;
+// 						public static l: com.esri.arcgisruntime.internal.jni.do;
+// 						public static m: com.esri.arcgisruntime.internal.jni.do;
+// 						public static n: com.esri.arcgisruntime.internal.jni.do;
+// 						public static o: com.esri.arcgisruntime.internal.jni.do;
+// 						public static p: com.esri.arcgisruntime.internal.jni.do;
+// 						public static q: com.esri.arcgisruntime.internal.jni.do;
+// 						public static r: com.esri.arcgisruntime.internal.jni.do;
+// 						public static s: com.esri.arcgisruntime.internal.jni.do;
+// 						public static t: com.esri.arcgisruntime.internal.jni.do;
+// 						public static u: com.esri.arcgisruntime.internal.jni.do;
+// 						public static v: com.esri.arcgisruntime.internal.jni.do;
+// 						public static w: com.esri.arcgisruntime.internal.jni.do;
+// 						public static x: com.esri.arcgisruntime.internal.jni.do;
+// 						public static y: com.esri.arcgisruntime.internal.jni.do;
+// 						public static z: com.esri.arcgisruntime.internal.jni.do;
+// 						public static a(param0: number): com.esri.arcgisruntime.internal.jni.do;
+// 						public static values(): native.Array<com.esri.arcgisruntime.internal.jni.do>;
+// 						public static valueOf(param0: string): com.esri.arcgisruntime.internal.jni.do;
+// 					}
+// 				}
+// 			}
+// 		}
+// 	}
+// }
 
 declare module com {
 	export module esri {
@@ -40377,7 +40377,7 @@ declare module com {
 		export module arcgisruntime {
 			export module internal {
 				export module jni {
-					export class if {
+					export class _if {
 						public static class: java.lang.Class<com.esri.arcgisruntime.internal.jni.if>;
 						public static b: com.esri.arcgisruntime.internal.jni.if;
 						public static c: com.esri.arcgisruntime.internal.jni.if;
@@ -40571,7 +40571,7 @@ declare module com {
 		export module arcgisruntime {
 			export module internal {
 				export module jni {
-					export class in {
+					export class _in {
 						public static class: java.lang.Class<com.esri.arcgisruntime.internal.jni.in>;
 						/**
 						 * Constructs a new instance of the com.esri.arcgisruntime.internal.jni.in interface with the provided implementation. An empty constructor exists calling super() when extending the interface class.
